@@ -4,6 +4,11 @@ A small arcade game made in Python for a school performance task. You control a 
 
 It started as a simple "catch the circles" game and slowly grew into a survival game.
 
+<p align="center">
+  <img src="screenshots/title_screen.png" width="45%" alt="Title screen">
+  <img src="screenshots/gameplay.png" width="45%" alt="Gameplay">
+</p>
+
 ## About this project
 
 This was a performance task in school, meant to practice Python programming. It uses the things we learned in class: variables, functions, if statements, loops, lists, dictionaries, keyboard events, random numbers, and saving a score to a file. The graphics all come from Python's built-in `turtle` module, so there is nothing extra to install.
